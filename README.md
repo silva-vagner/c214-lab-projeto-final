@@ -1,6 +1,5 @@
 <h1 align="center"> Incrementador e Decrementador </h1>
-![example event parameter](https://github.com/silva-vagner/c214-lab-projeto-final/actions/workflows/node.js.yml/badge.svg)
-
+[![example event parameter](https://github.com/silva-vagner/c214-lab-projeto-final/actions/workflows/node.js.yml/badge.svg)]
 
 
 ## Menu
