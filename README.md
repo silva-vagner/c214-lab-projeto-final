@@ -1,5 +1,8 @@
 <h1 align="center"> Incrementador e Decrementador </h1>
-[![CircleCI](https://github.com/silva-vagner/c214-lab-projeto-final/actions/workflows/node.js.yml/badge.svg)](https://pt-br.reactjs.org/) 
+<p align="center">
+  <img src="https://github.com/silva-vagner/c214-lab-projeto-final/actions/workflows/node.js.yml/badge.svg">
+</p>
+
 
 ## Menu
 - [Sobre](#Project)
